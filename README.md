@@ -1,9 +1,7 @@
 # Introduction 🤖
 - Đây Là Một Dự Án Nhỏ Đầu Tay Của Mình Nhằm Mục Đích Quản Lý Máy Tính Từ Xa, Khi Người Dùng Máy Không Muốn Sử Dụng Phần Mềm Thứ 3 Để Can Thiệp Hoặc Vân Vân Và Mây Mây ~.~
 - Đồng Thời Đây Cũng Là 1 Dự Án Mình Làm Mang Tính Chất Cá Nhân. Cho Nên Mọi Đóng Góp, Ý Kiến Về Sửa Lỗi Cũng Như Thêm Tính Năng Các Bạn Có Thể Liên Hệ Qua:<br>
-    > Telegram : @DucThinhEXE<br>
-    > Facebook : Facebook.com/61556351104541<br>
-    > Youtube : @JiraySoftware<br>
+    > Telegram : @HgAnh7<br>
 
 ## Installation
 1. **Tải Và Cài Đặt Môi Trường**
@@ -12,7 +10,7 @@
 2. **Tải Xuống Source Code Phần Mềm**
    - Thực Hiện Tải Source Code Về Hoặc Mở Command Prompt Nhập Dòng Lệnh
         ```
-        git clone https://github.com/DucThinhEXE/Control-Device-In-Telegram.git
+        git clone https://github.com/HgAnh7/Control-Device-In-Telegram.git
         ```
 
 3. **Install Các Thư Viện Cần Thiết**
@@ -43,8 +41,5 @@
 - Đây Là Phần Mềm Được Tạo Ra Nhằm Để Học Hỏi, Không Nhằm Mục Đích Xấu. Tuyệt Đối Không Sử Dụng Sản Phẩm Vào Các Mục Đích Vi Phạm Pháp Luật. Nếu Có Tôi Hoàn Toàn Không Chịu Trách Nhiệm !
 # Donate
 - Cảm Ơn Các Bạn Đã Sử Dụng Sản Phẩm Của Mình. Các Bạn Có Thể Donate Cho Mình Qua Các Ví Sau Tạo Động Lực Giúp Mình Chia Sẻ Các Phần Mềm Hữu Ích Hơn. Xin Cảm Ơn Các Bạn Rất Nhiều :3
-```MBBANK : 8386282006 - NGUYEN DUC THINH```
-- Mọi Thắc Mắc Hoặc Câu Hỏi Đáp Có Thể Liên Hệ Qua Telegram : @DucThinhEXE. Chúc Các Bạn Sử Dụng Phần Mềm An Toàn Và Có Một Ngày Mới Tốt Lành <333
-
-
-
+```MBBANK : 7893112007 - ĐỖ VIỆT HOÀNG ANH```
+- Mọi Thắc Mắc Hoặc Câu Hỏi Đáp Có Thể Liên Hệ Qua Telegram : @HgAnh7. Chúc Các Bạn Sử Dụng Phần Mềm An Toàn Và Có Một Ngày Mới Tốt Lành <333
